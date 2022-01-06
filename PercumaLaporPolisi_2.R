@@ -93,7 +93,7 @@ percumalaporpolisi %>%
 
 ##cleaning text
 
-PercumaLaporPolisi %>% 
+percumalaporpolisi %>% 
   select(text) %>% 
   mutate(text = gsub(pattern = "http\\S+", 
                      replacement = "", 
