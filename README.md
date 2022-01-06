@@ -8,7 +8,7 @@ Tahapan dalam analisis data:
 * [Membersihkan data dengan file Stop Words Berbahasa Indonesia](https://github.com/garnesian/Analisis-Sentiment-Twitter/blob/main/Book1.xlsx)
 
 Data dalam analisis:
-* [Tweet #PercumaLaporPolisi](https://github.com/garnesian/Analisis-Sentiment-Twitter/blob/main/PercumaLaporPolisi_1.csv)
+* [Tweet #PercumaLaporPolisi](https://github.com/garnesian/Analisis-Sentiment-Twitter/blob/main/PercumaLaporPolisi.csv)
 * [File Stop Words Berbahasa Indonesia](https://github.com/garnesian/Analisis-Sentiment-Twitter/blob/main/stopwords-id.txt)
 * [Hasil analisis sentimen](https://github.com/garnesian/Analisis-Sentiment-Twitter/blob/main/Analisis_sentimen.csv)
 
